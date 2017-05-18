@@ -1,0 +1,8 @@
+C:\projects\NTS\Branches\IA\Test_WebApp\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\projects\NTS\Branches\IA\Test_WebApp\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\projects\NTS\Branches\IA\Test_WebApp\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\projects\NTS\Branches\IA\Test_WebApp\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\projects\NTS\Branches\IA\Test_WebApp\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\projects\NTS\Branches\IA\Test_WebApp\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\projects\NTS\Branches\IA\Test_WebApp\Tutorial\Tutorial\bin\Debug\CreditCardValidator.dll
+C:\projects\NTS\Branches\IA\Test_WebApp\Tutorial\Tutorial\bin\Debug\GoogleMaps.LocationServices.dll
